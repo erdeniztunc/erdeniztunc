@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erdeniz Tunç
+- # 👋 Hi, I’m Erdeniz Tunç
 - 👀 I’m interested in FreightTech, SaaS, Web Technologies
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on new internship opportunities
